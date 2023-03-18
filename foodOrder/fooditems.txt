@@ -1,0 +1,13 @@
+Hamburger 40
+Cheeseburger 42
+Spaghetti 37
+Salad 35
+Burrito 39
+Chicken 44
+Meat 50
+Meatballs 48
+Pasta 38
+Cake 25
+Cookies 22
+Cola 10
+Water 3
